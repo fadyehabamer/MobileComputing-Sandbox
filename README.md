@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='img.webp'>
+<img src='repoAssets/img.webp'>
 </p>
 <h1 align="center" > Mobile Computing Course </h1>
 <h3 align="center">

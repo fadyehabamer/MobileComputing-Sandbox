@@ -3,7 +3,7 @@
 </p>
 <h1 align="center" > Mobile Computing Course </h1>
 <h3 align="center">
-@ Faculty of Computer & Information Sciences 'Mansoura University' for 4th Year
+@ Faculty of computer and information Sciences ' MU ' for the '4th Year' IT Department
 </h3>
 
 <h4 align="center">

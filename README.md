@@ -8,5 +8,4 @@
 
 <h4 align="center">
 Tip: First Week was an Introduction
-Tip: mid-term is on first 4 lectures 
 </h4>

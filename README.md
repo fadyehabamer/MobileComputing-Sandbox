@@ -3,7 +3,7 @@
 </p>
 <h1 align="center" > Mobile Computing Course </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?https://github.com/fadyehabamer/MobileComputing-Sandbox=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fadyehabamer.MobileComputing-Sandbox&left_color=green&right_color=red)
 
 <h3 align="center">
 @ Faculty of computer and information Sciences ' MU ' for the '4th Year' IT & IS Department

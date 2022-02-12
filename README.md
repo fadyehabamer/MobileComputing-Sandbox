@@ -6,8 +6,6 @@
 
 <h3 align="center">
 
-![Repo Visitors](https://visitor-badge.glitch.me/badge?page_id=fadyehabamer.MobileComputing-Sandbox&left_color=black&right_color=blue)
-
 @ Faculty of computer and information Sciences ' MU ' for the '4th Year' IT & IS Department
 
 </h3>
